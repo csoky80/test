@@ -22,4 +22,6 @@ $y = 25;
 
 print $x - $y;
 
+// ez egy megjegyzes  a kivonas vegere
+
 ?>
