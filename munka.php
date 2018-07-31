@@ -36,5 +36,8 @@ print $x - $y;
 
 
 
-// vege
+
+// ez egy megjegyzes  a kivonas vegere
+
+
 ?>
